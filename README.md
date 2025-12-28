@@ -42,11 +42,6 @@ It runs automatically on load, keeping your UI clean and distraction-free — li
 
 https://github.com/user-attachments/assets/59e16e5c-b34d-4302-9279-1199506fe00e
 
-
-
-* [Live Preview](https://bcworks.in.net/Nuke)
-* [Save Demo as HTML](https://raw.githubusercontent.com/guider23/bcWorks/main/Nuke.html)
-
 ---
 
 ##  Usage
