@@ -1,6 +1,6 @@
 # Nuke.js — Remove popular watermarks with one line
 
-![nuke.js demo](https://github.com/user-attachments/assets/50bfdeb8-d236-4076-ba66-b8eafd95200c)
+![Nuke.js demo](https://github.com/user-attachments/assets/50bfdeb8-d236-4076-ba66-b8eafd95200c)
 
 > ## LIMITED TIME ONLY!
 > ### ⚡ 7-DAY FREE TRIAL IS LIVE! ⚡  
@@ -10,7 +10,7 @@
 > Contact sofiyasenthilkumar@gmail.com
 
 
-**nuke.js** is a compact JavaScript framework that silently removes watermark elements from embedded third-party widgets — giving your site a clean, fully branded look.
+**Nuke.js** is a compact JavaScript framework that silently removes watermark elements from embedded third-party widgets — giving your site a clean, fully branded look.
 
 > No more “Powered by”, “Free version”, or obtrusive logos ruining your design.
 
@@ -30,7 +30,7 @@
 
 ## What It Does
 
-**nuke.js** scans your page (including shadow DOMs & iframes) and removes watermark links, logos, and badges injected by widget providers — without breaking functionality.
+**Nuke.js** scans your page (including shadow DOMs & iframes) and removes watermark links, logos, and badges injected by widget providers — without breaking functionality.
 
 It runs automatically on load, keeping your UI clean and distraction-free — like the widgets were yours all along.
 
@@ -44,8 +44,8 @@ https://github.com/user-attachments/assets/59e16e5c-b34d-4302-9279-1199506fe00e
 
 
 
-* [Live Preview](https://bcworks.in.net/nuke)
-* [Save Demo as HTML](https://raw.githubusercontent.com/guider23/bcWorks/main/nuke.html)
+* [Live Preview](https://bcworks.in.net/Nuke)
+* [Save Demo as HTML](https://raw.githubusercontent.com/guider23/bcWorks/main/Nuke.html)
 
 ---
 
@@ -54,14 +54,14 @@ https://github.com/user-attachments/assets/59e16e5c-b34d-4302-9279-1199506fe00e
 Include the script via CDN:
 
 ```html
-<script src="https://cdn.bcworks.in.net/nuke.min.js"></script> //Only works after subscription
+<script src="https://cdn.bcworks.in.net/Nuke.min.js"></script> //Only works after subscription
 ```
 
 Once included, it will auto-scan and clean supported widgets. No config needed (unless you want it).
 
 Wanna try for free ?
 ```html
-<script src="https://cdn.jsdelivr.net/gh/guider23/nuke.js@main/trial.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/guider23/Nuke.js@main/trial.js"></script>
 ```
 
 Only works locally (file://)
@@ -77,7 +77,7 @@ Only works locally (file://)
 > Note: Each license is valid for a single domain. Multi-domain plans may be added soon.
 
 * [Subscribe (Monthly)](https://guider23.gumroad.com/l/premium)
-* [Buy Lifetime Access](https://guider23.gumroad.com/l/nuke)
+* [Buy Lifetime Access](https://guider23.gumroad.com/l/Nuke)
 
 ---
 
@@ -102,7 +102,7 @@ Only works locally (file://)
 
 ##  Disclaimer
 
-nuke.js is for **personal or educational use** only.
+Nuke.js is for **personal or educational use** only.
 Do not use it on websites you don’t own or without permission. Make sure your use complies with each widget provider's TOS.
 
 ---
